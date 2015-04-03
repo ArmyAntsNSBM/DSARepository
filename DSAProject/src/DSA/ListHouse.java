@@ -5,9 +5,8 @@
  */
 
 package DSA;
-package DSA.*model;
 
-import DSA Listable
+import DSA.Listable;
 
 /**
  *
